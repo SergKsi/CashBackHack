@@ -1,11 +1,12 @@
 package ru.netology.unit;
 
+//import org.junit.Assert;
+//import org.junit.Test;
+
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
-
-class CashbackHackServiceTest {
+public class CashbackHackServiceTest {
 
     @Test
     public void testShouldReturn900IfAmount100() {
